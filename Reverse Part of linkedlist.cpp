@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-
+// Ist Code published;
     ListNode *reverse(ListNode *head,int left,int right) {
         ListNode *prev=NULL;
         ListNode *curr=head;
